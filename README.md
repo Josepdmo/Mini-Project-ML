@@ -12,9 +12,7 @@ This repository contains a machine learning project focused on predicting the cu
 - [Evaluation](#evaluation)
 - [Kaban and Presentation](#Kaban-and-Presentation)
 - [Credits](#Credits)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
