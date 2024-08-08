@@ -10,8 +10,8 @@ This repository contains a machine learning project focused on predicting the cu
 - [Feature Engineering](#feature-engineering)
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Kaban and Presentation](#Kaban-and-Presentation)
+- [Credits](#Credits)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
@@ -68,3 +68,14 @@ The models were evaluated based on the following metrics:
 - R-squared (R²)
 
 Cross-validation was also used to ensure the robustness and consistency of the model performance.
+
+
+## Kaban and Presentation
+- [Notion Project Management]
+- [Google Slides Presentation](https://docs.google.com/presentation/d/1J_7-tApkot-FemSLzZbsNUpeCq4hfrXz6Ynntewo9Do/edit#slide=id.ge96fd5876e_0_3553)
+
+
+## Credits
+
+- [José Pedro Brandão Linkedin]([https://www.linkedin.com/in/josepedrobrandao/])
+- [Josep de Marti Linkedin]
