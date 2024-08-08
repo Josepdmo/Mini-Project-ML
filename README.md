@@ -75,5 +75,5 @@ Cross-validation was also used to ensure the robustness and consistency of the m
 
 ## Credits
 
-- [José Pedro Brandão Linkedin]([https://www.linkedin.com/in/josepedrobrandao/])
+- [José Pedro Brandão Linkedin](https://www.linkedin.com/in/josepedrobrandao/)
 - [Josep de Marti Linkedin]
