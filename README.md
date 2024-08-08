@@ -74,12 +74,7 @@ Cross-validation was also used to ensure the robustness and consistency of the m
 - [Kaggle Movies Dataset](https://www.kaggle.com/datasets/khanghunhnguyntrng/football-players-transfer-fee-prediction-dataset)
 
 
-## Kaban and Presentation
-- [Notion Project Management]
-- [Google Slides Presentation](https://docs.google.com/presentation/d/1J_7-tApkot-FemSLzZbsNUpeCq4hfrXz6Ynntewo9Do/edit#slide=id.ge96fd5876e_0_3553)
-
-
 ## Credits
 
 - [José Pedro Brandão Linkedin](https://www.linkedin.com/in/josepedrobrandao/)
-- [Josep de Marti Linkedin]
+- [Josep de Marti Linkedin](https://www.linkedin.com/in/josep-de-mart%C3%AD-olius/)
