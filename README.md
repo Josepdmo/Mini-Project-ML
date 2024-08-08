@@ -10,7 +10,7 @@ This repository contains a machine learning project focused on predicting the cu
 - [Feature Engineering](#feature-engineering)
 - [Modeling](#modeling)
 - [Evaluation](#evaluation)
-- [Kaban and Presentation](#Kaban-and-Presentation)
+- [Data Source](#data-source)
 - [Credits](#Credits)
 
 
