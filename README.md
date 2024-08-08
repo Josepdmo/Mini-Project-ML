@@ -68,6 +68,12 @@ The models were evaluated based on the following metrics:
 Cross-validation was also used to ensure the robustness and consistency of the model performance.
 
 
+
+## Data Source
+
+- [Kaggle Movies Dataset](https://www.kaggle.com/datasets/khanghunhnguyntrng/football-players-transfer-fee-prediction-dataset)
+
+
 ## Kaban and Presentation
 - [Notion Project Management]
 - [Google Slides Presentation](https://docs.google.com/presentation/d/1J_7-tApkot-FemSLzZbsNUpeCq4hfrXz6Ynntewo9Do/edit#slide=id.ge96fd5876e_0_3553)
