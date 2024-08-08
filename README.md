@@ -37,12 +37,13 @@ The preprocessing steps include:
 Additional features were created to enhance the model:
 - `awards_per_appearance`: Calculated as the ratio of awards won to appearances made by the player.
 
+Selecting features based on a Correlation Matrix:
+
+![Data Visualization](EDA/correlation_matrix.png)
+
 ## Modeling
 
 The following machine learning models were used:
-- Linear Regression
-- Decision Tree Regressor
-- Random Forest Regressor
 - Gradient Boosting Regressor
 - XGBoost Regressor
 
@@ -56,17 +57,3 @@ The models were evaluated based on the following metrics:
 - R-squared (R²)
 
 Cross-validation was also used to ensure the robustness and consistency of the model performance.
-
-## Installation
-
-To run this project, you need to have Python and the following libraries installed:
-
-- pandas
-- numpy
-- scikit-learn
-- xgboost
-- matplotlib
-
-You can install the required libraries using:
-```bash
-pip install pandas numpy scikit-learn xgboost matplotlib
