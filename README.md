@@ -41,6 +41,17 @@ Selecting features based on a Correlation Matrix:
 
 ![Data Visualization](EDA/correlation_matrix.png)
 
+Based on the correlation analysis, we can select the top features for model training:
+
+- highest_value
+- minutes played
+- appearance
+- award
+- assists
+- games_injured
+- goals
+- days_injured
+
 ## Modeling
 
 The following machine learning models were used:
