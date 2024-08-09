@@ -67,7 +67,9 @@ The models were evaluated based on the following metrics:
 
 Cross-validation was also used to ensure the robustness and consistency of the model performance.
 
+## Most Important Features Visualization
 
+![Data Visualization](EDA/features_importance_graph.png)
 
 ## Data Source
 
