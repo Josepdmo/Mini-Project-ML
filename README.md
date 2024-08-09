@@ -12,6 +12,7 @@ This repository contains a machine learning project focused on predicting the cu
 - [Evaluation](#evaluation)
 - [Data Source](#data-source)
 - [Credits](#Credits)
+- [Most Important Features Visualization](#Most-Important-Features-Visualization)
 
 
 ## Project Overview
